@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elin Matching Ears and Tail",
+	"category": "client",
+	"description": "Matches the ears and tail with the selected hair color",
+	"author": "Snug",
+	"options": {
+		"guiName": "Hair: Elin Matching Ears and Tail",
+		"niceName": "Elin Matching Ears and Tail"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/tera-client-mods/master/elin-matching-ears-and-tail-client-mod"
+	]
+}
