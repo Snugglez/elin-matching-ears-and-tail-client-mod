@@ -8,7 +8,5 @@
 		"guiName": "Hair: Elin Matching Ears and Tail",
 		"niceName": "Elin Matching Ears and Tail"
 	},
-	"servers": [
-		"https://raw.githubusercontent.com/Snugglez/tera-client-mods/master/elin-matching-ears-and-tail-client-mod"
-	]
+	"servers": ["https://raw.githubusercontent.com/Snugglez/elin-matching-ears-and-tail-client-mod/master/"]
 }
